@@ -1,1 +1,1 @@
-# README.md
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycsnh1)](https://solved.ac/kycsnh1/)
